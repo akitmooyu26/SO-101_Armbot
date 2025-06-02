@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5755e497-9d55-4803-a6d2-dda22af7666f)🤖 Armbot SO-101 – Master-Slave Robot Arm + Motion Replay
+🤖 Armbot SO-101 – Master-Slave Robot Arm + Motion Replay
 
 This is a Python-based robotic arm control system using Master–Slave teleoperation with motion recording & replay capabilities.
 これはPythonで作られた、ロボットアームのマスター・スレーブ制御＋動作記録＆再生のプロジェクトです。
